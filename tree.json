@@ -4,7 +4,9 @@
     "data": {
       "title": "Wesele Wyspiańskiego — postacie (rozszerzenie)",
       "extends": "Polski — matura (mini)",
-      "edges": "[{\"from\": \"wesele\", \"to\": \"wesele-symboliczne\", \"type\": \"postac\"}, {\"from\": \"wesele\", \"to\": \"wesele-realistyczne\", \"type\": \"postac\"}]"
+      "branches": "{\"pytania\": {\"label\": \"Pytania CKE\", \"color\": \"primary\"}}",
+      "relations": "{\"argument\": {\"label\": \"Argument\", \"color\": \"primary\"}, \"kontekst-literacki\": {\"label\": \"Kontekst literacki\", \"color\": \"info\"}, \"kontekst-historyczny\": {\"label\": \"Kontekst historyczny\", \"color\": \"accent\"}, \"kontekst-biograficzny\": {\"label\": \"Kontekst biograficzny\", \"color\": \"secondary\"}, \"kontekst-filozoficzny\": {\"label\": \"Kontekst filozoficzny\", \"color\": \"warning\"}, \"kontekst-biblijny\": {\"label\": \"Kontekst biblijny\", \"color\": \"neutral\"}, \"kontekst-mitologiczny\": {\"label\": \"Kontekst mitologiczny\", \"color\": \"neutral\"}, \"kontekst-kulturowy\": {\"label\": \"Kontekst kulturowy\", \"color\": \"neutral\"}, \"kontekst-spoleczny\": {\"label\": \"Kontekst społeczny\", \"color\": \"neutral\"}, \"kontekst-polityczny\": {\"label\": \"Kontekst polityczny\", \"color\": \"neutral\"}, \"kontekst-egzystencjalny\": {\"label\": \"Kontekst egzystencjalny\", \"color\": \"neutral\"}}",
+      "edges": "[{\"from\": \"wesele\", \"to\": \"wesele-symboliczne\", \"type\": \"postac\"}, {\"from\": \"wesele\", \"to\": \"wesele-realistyczne\", \"type\": \"postac\"}, {\"from\": \"q-42\", \"to\": \"wesele\", \"type\": \"argument\"}, {\"from\": \"q-43\", \"to\": \"wesele\", \"type\": \"argument\"}, {\"from\": \"q-43\", \"to\": \"romantyzm\", \"type\": \"kontekst-historyczny\"}, {\"from\": \"q-44\", \"to\": \"wesele\", \"type\": \"argument\"}, {\"from\": \"q-44\", \"to\": \"dziady3\", \"type\": \"kontekst-literacki\"}, {\"from\": \"q-45\", \"to\": \"wesele\", \"type\": \"argument\"}, {\"from\": \"q-45\", \"to\": \"dziady3\", \"type\": \"kontekst-literacki\"}, {\"from\": \"q-46\", \"to\": \"wesele\", \"type\": \"argument\"}, {\"from\": \"q-46\", \"to\": \"polikarp\", \"type\": \"kontekst-literacki\"}]"
     },
     "children": [
       {
@@ -24,6 +26,56 @@
           "title": "Wesele — postacie realistyczne",
           "branch": "postacie",
           "tier": 1,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "q-42",
+          "title": "Co utrudnia porozumienie między przedstawicielami różnych grup społecznych?",
+          "branch": "pytania",
+          "tier": 42,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "q-43",
+          "title": "Rola chłopów i inteligencji w sprawie niepodległościowej",
+          "branch": "pytania",
+          "tier": 43,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "q-44",
+          "title": "Sen czy sąd nad Polską?",
+          "branch": "pytania",
+          "tier": 44,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "q-45",
+          "title": "Symboliczne znaczenie widm i zjaw",
+          "branch": "pytania",
+          "tier": 45,
+          "hits": 0
+        }
+      },
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "q-46",
+          "title": "Motyw tańca",
+          "branch": "pytania",
+          "tier": 46,
           "hits": 0
         }
       }

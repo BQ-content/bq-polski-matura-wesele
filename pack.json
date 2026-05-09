@@ -8,12 +8,17 @@
     "email": "gotoreadyai@gmail.com"
   },
   "license": "CC-BY-SA-4.0",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "extends": {
     "title": "Polski — matura (mini)"
   },
   "provides": {
     "nodes": [
+      "q-42",
+      "q-43",
+      "q-44",
+      "q-45",
+      "q-46",
       "wesele-realistyczne",
       "wesele-symboliczne"
     ],
@@ -31,9 +36,9 @@
   },
   "mentions": [],
   "stats": {
-    "nodes": 2,
+    "nodes": 7,
     "terms": 9,
-    "edges": 2,
+    "edges": 11,
     "mentions_unmet": 0
   }
 }
