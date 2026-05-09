@@ -1,34 +1,39 @@
 {
   "schemaVersion": "1.0",
-  "id": "bq-polski-wesele",
-  "title": "Wesele Wyspiańskiego — postacie symboliczne (rozszerzenie)",
+  "id": "bq-polski-matura-wesele",
+  "title": "Wesele Wyspiańskiego — postacie (rozszerzenie)",
   "description": "Wesele Wyspiańskiego — postacie symboliczne (rozszerzenie)",
   "author": {
     "name": "Karamba Bober",
     "email": "gotoreadyai@gmail.com"
   },
   "license": "CC-BY-SA-4.0",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "extends": {
     "title": "Polski — matura (mini)"
   },
   "provides": {
     "nodes": [
-      "wesele-deep"
+      "wesele-realistyczne",
+      "wesele-symboliczne"
     ],
     "terms": [
       "Chochoł",
+      "Czepiec",
+      "Gospodarz",
+      "Hetman",
       "Jasiek",
+      "Pan Młody",
+      "Panna Młoda",
       "Stańczyk",
-      "Wernyhora",
-      "Złoty róg"
+      "Wernyhora"
     ]
   },
   "mentions": [],
   "stats": {
-    "nodes": 1,
-    "terms": 5,
-    "edges": 1,
+    "nodes": 2,
+    "terms": 9,
+    "edges": 2,
     "mentions_unmet": 0
   }
 }

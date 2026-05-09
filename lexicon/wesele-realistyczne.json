@@ -2,50 +2,6 @@
   {
     "type": "term",
     "data": {
-      "term": "Stańczyk",
-      "definition": "Historyczny błazen królewski (Zygmunta Starego) — w *Weselu* przychodzi jako duch do Dziennikarza. Symbol mądrości szyderczej, narodowego sumienia. „Polacy kochają błaznów, bo prawda boli\".",
-      "category": "motywy",
-      "forms": "[\"Stańczyk\", \"Stańczyka\", \"Stańczykowi\", \"Stańczykiem\"]",
-      "nodes": "[\"wesele\", \"wesele-symboliczne\"]",
-      "quiz": "{\"question\": \"Kim jest Stańczyk w *Weselu*?\", \"answer\": \"Duch dawnego błazna królewskiego (Zygmunta Starego). Symbol narodowego sumienia. Przychodzi do Dziennikarza, oskarża o niemoc.\", \"wrong\": [\"rycerz\", \"chłop\", \"kompozytor\"], \"hint\": \"Błazen królewski + duch.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "Wernyhora",
-      "definition": "Legendarny ukraiński prorok z XVIII wieku — w *Weselu* zjawia się jako duch zwiastujący powstanie. Daje Gospodarzowi złoty róg jako symbol wezwania do walki. Symbol nadziei narodowej.",
-      "category": "motywy",
-      "forms": "[\"Wernyhora\", \"Wernyhorę\", \"Wernyhorą\"]",
-      "nodes": "[\"wesele\", \"wesele-symboliczne\"]",
-      "quiz": "{\"question\": \"Co Wernyhora przekazuje Gospodarzowi?\", \"answer\": \"Złoty róg — symbol wezwania do powstania narodowego. Wernyhora to legendarny ukraiński prorok zwiastujący wyzwolenie Polski.\", \"wrong\": [\"miecz\", \"koronę\", \"księgę\"], \"hint\": \"Złoty róg.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "Chochoł",
-      "definition": "Słomiana figura okrywająca róże na zimę — w *Weselu* przychodzi jako duch i prowadzi {{chocholi taniec}}. Symbol uśpienia narodu, beznadziejnej drzemki przed zmartwychwstaniem.",
-      "category": "motywy",
-      "forms": "[\"Chochoł\", \"Chochoła\", \"Chochołem\"]",
-      "nodes": "[\"wesele\", \"wesele-symboliczne\"]",
-      "quiz": "{\"question\": \"Co symbolizuje Chochoł?\", \"answer\": \"Uśpienie narodu — słomiana figura okrywająca róże na zimę. Prowadzi chocholi taniec. Polski naród zaczarowany, niezdolny do działania.\", \"wrong\": [\"radość weselna\", \"tradycję ludową\", \"zwycięstwo\"], \"hint\": \"Słoma + zima + drzemka narodu.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
-      "term": "Hetman",
-      "definition": "Duch Franciszka Branickiego (targowiczanin) — w *Weselu* objawia się jako symbol historycznej zdrady narodowej. Magnat sprzedający ojczyznę za prywatne korzyści.",
-      "category": "motywy",
-      "forms": "[\"Hetman\", \"Hetmana\", \"Hetmanowi\"]",
-      "nodes": "[\"wesele\", \"wesele-symboliczne\"]",
-      "quiz": "{\"question\": \"Co symbolizuje postać Hetmana w *Weselu*?\", \"answer\": \"Historyczna zdrada narodowa — duch Branickiego, targowiczanina. Magnat sprzedający ojczyznę. Symbol „zaprzedanego rozumu\\\".\", \"wrong\": [\"rycerz\", \"patriota\", \"kapłan\"], \"hint\": \"Targowica.\"}"
-    }
-  },
-  {
-    "type": "term",
-    "data": {
       "term": "Pan Młody",
       "definition": "Lucjan Rydel — poeta z Krakowa, żeniący się z chłopką Jadwigą. Na pierwowzór: realny ślub Rydla 1900. Symbol inteligencji szukającej kontaktu z ludem — naiwnej, sentymentalnej.",
       "category": "motywy",
