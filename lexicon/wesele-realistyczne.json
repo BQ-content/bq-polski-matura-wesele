@@ -4,7 +4,7 @@
     "data": {
       "term": "Pan Młody",
       "definition": "Lucjan Rydel — poeta z Krakowa, żeniący się z chłopką Jadwigą. Na pierwowzór: realny ślub Rydla 1900. Symbol inteligencji szukającej kontaktu z ludem — naiwnej, sentymentalnej.",
-      "category": "motywy",
+      "category": "postacie",
       "forms": "[\"Pan Młody\", \"Pana Młodego\", \"Panem Młodym\"]",
       "nodes": "[\"wesele\", \"wesele-realistyczne\"]",
       "quiz": "{\"question\": \"Kim jest Pan Młody w *Weselu*?\", \"answer\": \"Poeta z Krakowa (pierwowzór: Lucjan Rydel) żeniący się z chłopką Jadwigą. Symbol inteligencji szukającej kontaktu z ludem — sentymentalnie naiwnej.\", \"wrong\": [\"chłop\", \"student\", \"ksiądz\"], \"hint\": \"Inteligent z miasta.\"}"
@@ -15,7 +15,7 @@
     "data": {
       "term": "Panna Młoda",
       "definition": "Jadwiga Mikołajczykówna — chłopska narzeczona Pana Młodego. Pyta naiwne pytania („Czy są djabły?\"). Symbol ludu — autentycznego, ale niewykształconego.",
-      "category": "motywy",
+      "category": "postacie",
       "forms": "[\"Panna Młoda\", \"Panny Młodej\", \"Panną Młodą\"]",
       "nodes": "[\"wesele\", \"wesele-realistyczne\"]",
       "quiz": "{\"question\": \"Kim jest Panna Młoda?\", \"answer\": \"Jadwiga Mikołajczykówna — chłopska narzeczona Pana Młodego. Symbol ludu — autentyczna, ale niewykształcona. Naiwne pytania o świat inteligencji.\", \"wrong\": [\"arystokratka\", \"studentka\", \"cyganka\"], \"hint\": \"Chłopka, narzeczona.\"}"
@@ -26,7 +26,7 @@
     "data": {
       "term": "Czepiec",
       "definition": "Chłop, gospodarz wesela, wzór ludowej mądrości i odwagi. „Wy, panie, wiele wiecie, a we łbie wam tak, jakby przy szabasie\". Wytyka inteligencji bezczynność. Reprezentuje ludowy potencjał walki.",
-      "category": "motywy",
+      "category": "postacie",
       "forms": "[\"Czepiec\", \"Czepca\", \"Czepcowi\"]",
       "nodes": "[\"wesele\", \"wesele-realistyczne\"]",
       "quiz": "{\"question\": \"Co reprezentuje postać Czepca?\", \"answer\": \"Ludową mądrość i odwagę walki. Wytyka inteligencji bezczynność: „we łbie wam jak przy szabasie\\\". Gotowość chłopów do powstania.\", \"wrong\": [\"inteligencję\", \"arystokrację\", \"duchowieństwo\"], \"hint\": \"Chłop gotowy do walki.\"}"
@@ -37,7 +37,7 @@
     "data": {
       "term": "Jasiek",
       "definition": "Drużba weselny któremu Gospodarz oddaje złoty róg. Schyla się po czapkę z piór — gubi róg w trawie. Tragiczna lekkomyślność „prostego człowieka\", który nie rozumie wagi powierzonej misji.",
-      "category": "motywy",
+      "category": "postacie",
       "forms": "[\"Jasiek\", \"Jaśka\", \"Jaśkowi\", \"Jaśkiem\"]",
       "nodes": "[\"wesele\", \"wesele-realistyczne\"]",
       "quiz": "{\"question\": \"Dlaczego Jasiek gubi złoty róg?\", \"answer\": \"Schyla się po czapkę z piór. Tragiczna lekkomyślność — symbol że „prosty człowiek\\\" nie rozumie powierzonej mu wagi historycznej misji.\", \"wrong\": [\"kradnie go wróg\", \"pęka mu pasek\", \"spada z konia\"], \"hint\": \"Czapka z piór.\"}"
@@ -48,7 +48,7 @@
     "data": {
       "term": "Gospodarz",
       "definition": "Włodzimierz Tetmajer — gospodarz wesela. Maluje obrazy w Bronowicach, łączy inteligencję z ludem. Otrzymuje od Wernyhory złoty róg do zwołania powstania. Próbuje organizować — bez skutku.",
-      "category": "motywy",
+      "category": "postacie",
       "forms": "[\"Gospodarz\", \"Gospodarza\", \"Gospodarzowi\"]",
       "nodes": "[\"wesele\", \"wesele-realistyczne\"]",
       "quiz": "{\"question\": \"Co czyni Gospodarz w *Weselu*?\", \"answer\": \"Otrzymuje od Wernyhory złoty róg do zwołania powstania. Włodzimierz Tetmajer — malarz w Bronowicach. Próbuje organizować, ale powierza misję Jaśkowi (klęska).\", \"wrong\": [\"ślubuje Pannie Młodej\", \"zabija Hetmana\", \"opuszcza wesele\"], \"hint\": \"Dostaje złoty róg.\"}"
