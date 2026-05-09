@@ -1,0 +1,22 @@
+[
+  {
+    "type": "tree",
+    "data": {
+      "title": "Wesele Wyspiańskiego — postacie symboliczne (rozszerzenie)",
+      "extends": "Polski — matura (mini)",
+      "edges": "[{\"from\": \"wesele\", \"to\": \"wesele-deep\", \"type\": \"postac\"}]"
+    },
+    "children": [
+      {
+        "type": "node",
+        "data": {
+          "nodeId": "wesele-deep",
+          "title": "Wesele — postacie symboliczne",
+          "branch": "lektury",
+          "tier": 1,
+          "hits": 0
+        }
+      }
+    ]
+  }
+]
